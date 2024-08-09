@@ -1,1 +1,2 @@
-# Predicting-Hotel-Booking-Cancellations.
+Hii there. My name is Bate Bita and I am a Management Accounting Graduate who developed a profound passion for data and all the insights one can derive from it. After having graduated with a Professional BSc. in Management Accounting, I went ahead to pursue my passion and this led me to taking an online Professional Certificate in Data Science, which only reinforced my passion for data even more.
+I am currently excelling in a whole new Bachelor's Degree Program in Data Science and this is my first solo project. I'm very welcome to suggestions, corrections, criticisms and what have you. ENJOYY!!
