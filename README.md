@@ -2,7 +2,7 @@
 
 This project explores how machine learning can help hotels predict booking cancellations and make smarter operational decisions. Using real data from two Portuguese hotels, the analysis identifies key factors that influence cancellations and compares multiple models to find the most reliable predictive solution.  
 
-📄 [View Project Presentation (PDF)](./Hotel%20Booking%20Cancellations%20Presentation.pdf)  
+📄 [View Project Presentation (PDF)](./Hotel%20Booking%20Cancellations%20Presentation.pdf?raw=true)
 
 ---
 
