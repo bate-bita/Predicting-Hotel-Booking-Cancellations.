@@ -86,6 +86,6 @@ It highlights an analytical process from raw data cleaning to business insight c
 
 ## Author  
 
-👩🏽‍💻 **Bate Bita Tambe**  
-Financial and Business Intelligence Analyst  
+**Bate Bita Tambe**  
+Data Analyst   
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
